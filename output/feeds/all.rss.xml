@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Moonburnt's Blog</title><link>https://moonburnt.github.io/</link><description></description><lastBuildDate>Sat, 24 Jul 2021 20:24:00 +0300</lastBuildDate><item><title>Beginning of This Blog</title><link>https://moonburnt.github.io/beginning-of-this-blog.html</link><description>&lt;p&gt;Hello, stranger. If you are reading this - you either scrolled down really far,
+or I gave up on updating this. Regardless - this is my attempt at maintaining
+github pages blog, powered by pelican.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Why pelican?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Well, Because at this point of time, Im trying to become python developer.
+Thus I decided that using blog engine which could be hacked by myself, with
+styles powered by commonly-used in flask jinja, would be a wise choice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Why github pages?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Because Im not feeling confident enough to pay for dedicated hosting and it
+seems to be relatively easy to migrate from, in case of emergence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who even write blogs in 2k21?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ikr. I just wanted to get something to start with. Maybe at some point I will
+remake this into somewhat of portfolio, not sure yet. Or maybe I will give up and
+this post will be the only one out there. Not sure. Time will tell.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who the hell are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is literally "about" category dedicated to this, which should be the first
+thing you see, unless I've misconfigured something.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">moonburnt</dc:creator><pubDate>Sat, 24 Jul 2021 20:24:00 +0300</pubDate><guid isPermaLink="false">tag:moonburnt.github.io,2021-07-24:/beginning-of-this-blog.html</guid><category>Blog</category><category>helloworld</category><category>greeter</category><category>meta</category></item><item><title>About</title><link>https://moonburnt.github.io/</link><description>&lt;p&gt;Hello, stranger and welcome to my blog. There you will find info about my projects
+and some articles that may or may not come handy. Either way, lets begin with
+introduction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feel free to call me moonburnt, Im netizen in early 20th. At the moment of writing
+this, Im NEET who tries to learn python (and maybe, eventually, other languages) -
+both to get employed and to write various things that may come handy for myself
+and other people.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How experienced are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thus far I've been learning python for 2.5-3 years, all by myself. I've been
+doing multiple freelance works (which mostly involved either writing cli tools or
+pyqt5 applications) and maintain multiple FOSS projects on github. Thus said, I
+have no experience working as full-time programmer. Yet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What are you interested in?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Linux (and opensource operation systems as a whole), utilities for daily use,
+chat bots, gamedev. I've been writing &lt;a href="https://github.com/moonburnt/pymediadump"&gt;web&lt;/a&gt;
+&lt;a href="https://github.com/moonburnt/anidb_parser"&gt;parsers&lt;/a&gt; and &lt;a href="https://github.com/moonburnt/laymix"&gt;cli&lt;/a&gt;
+&lt;a href="https://github.com/moonburnt/romman"&gt;tools&lt;/a&gt;, &lt;a href="https://github.com/moonburnt/notashark"&gt;discord bots&lt;/a&gt;
+and &lt;a href="https://github.com/moonburnt/locky"&gt;various&lt;/a&gt; &lt;a href="https://github.com/moonburnt/p3dss"&gt;libraries&lt;/a&gt;.
+At the moment, Im working on &lt;a href="https://github.com/moonburnt/a2s3"&gt;2.5D video game&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Where can I find full list of things you've made and proud of?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For now, &lt;a href="https://github.com/moonburnt?tab=repositories&amp;amp;q=&amp;amp;type=source"&gt;check my github profile&lt;/a&gt;.
+Eventually I will make a portfolio, I guess.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I've noticed some typos in your posts&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Its because english isnt my first language. Just like with programming, I've
+learned it by myself over the net. If there is anything critical - feel free to
+point the issue on github.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">moonburnt</dc:creator><pubDate>Sat, 24 Jul 2021 20:00:00 +0300</pubDate><guid isPermaLink="false">tag:moonburnt.github.io,2021-07-24:/</guid><category>About</category></item></channel></rss>

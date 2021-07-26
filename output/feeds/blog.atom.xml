@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Moonburnt's Blog - Blog</title><link href="https://moonburnt.github.io/" rel="alternate"></link><link href="https://moonburnt.github.io/feeds/blog.atom.xml" rel="self"></link><id>https://moonburnt.github.io/</id><updated>2021-07-24T20:24:00+03:00</updated><entry><title>Beginning of This Blog</title><link href="https://moonburnt.github.io/beginning-of-this-blog.html" rel="alternate"></link><published>2021-07-24T20:24:00+03:00</published><updated>2021-07-24T20:24:00+03:00</updated><author><name>moonburnt</name></author><id>tag:moonburnt.github.io,2021-07-24:/beginning-of-this-blog.html</id><summary type="html">&lt;p&gt;&lt;em&gt;hello there&lt;/em&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello, stranger. If you are reading this - you either scrolled down really far,
+or I gave up on updating this. Regardless - this is my attempt at maintaining
+github pages blog, powered by pelican.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Why pelican?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Well, Because at this point of time, Im trying to become python developer.
+Thus I decided that using blog engine which could be hacked by myself, with
+styles powered by commonly-used in flask jinja, would be a wise choice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Why github pages?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Because Im not feeling confident enough to pay for dedicated hosting and it
+seems to be relatively easy to migrate from, in case of emergence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who even write blogs in 2k21?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ikr. I just wanted to get something to start with. Maybe at some point I will
+remake this into somewhat of portfolio, not sure yet. Or maybe I will give up and
+this post will be the only one out there. Not sure. Time will tell.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who the hell are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is literally "about" category dedicated to this, which should be the first
+thing you see, unless I've misconfigured something.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Blog"></category><category term="helloworld"></category><category term="greeter"></category><category term="meta"></category></entry></feed>

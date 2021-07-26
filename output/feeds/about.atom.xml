@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Moonburnt's Blog - About</title><link href="https://moonburnt.github.io/" rel="alternate"></link><link href="https://moonburnt.github.io/feeds/about.atom.xml" rel="self"></link><id>https://moonburnt.github.io/</id><updated>2021-07-24T20:00:00+03:00</updated><entry><title>About</title><link href="https://moonburnt.github.io/" rel="alternate"></link><published>2021-07-24T20:00:00+03:00</published><updated>2021-07-24T20:00:00+03:00</updated><author><name>moonburnt</name></author><id>tag:moonburnt.github.io,2021-07-24:/</id><summary type="html">&lt;p&gt;Hello, stranger and welcome to my blog. There you will find info about my projects
+and some articles that may or may not come handy. Either way, lets begin with
+introduction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feel free to call me moonburnt, Im netizen in early 20th. At the moment of writing …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Hello, stranger and welcome to my blog. There you will find info about my projects
+and some articles that may or may not come handy. Either way, lets begin with
+introduction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Who are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feel free to call me moonburnt, Im netizen in early 20th. At the moment of writing
+this, Im NEET who tries to learn python (and maybe, eventually, other languages) -
+both to get employed and to write various things that may come handy for myself
+and other people.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How experienced are you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thus far I've been learning python for 2.5-3 years, all by myself. I've been
+doing multiple freelance works (which mostly involved either writing cli tools or
+pyqt5 applications) and maintain multiple FOSS projects on github. Thus said, I
+have no experience working as full-time programmer. Yet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What are you interested in?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Linux (and opensource operation systems as a whole), utilities for daily use,
+chat bots, gamedev. I've been writing &lt;a href="https://github.com/moonburnt/pymediadump"&gt;web&lt;/a&gt;
+&lt;a href="https://github.com/moonburnt/anidb_parser"&gt;parsers&lt;/a&gt; and &lt;a href="https://github.com/moonburnt/laymix"&gt;cli&lt;/a&gt;
+&lt;a href="https://github.com/moonburnt/romman"&gt;tools&lt;/a&gt;, &lt;a href="https://github.com/moonburnt/notashark"&gt;discord bots&lt;/a&gt;
+and &lt;a href="https://github.com/moonburnt/locky"&gt;various&lt;/a&gt; &lt;a href="https://github.com/moonburnt/p3dss"&gt;libraries&lt;/a&gt;.
+At the moment, Im working on &lt;a href="https://github.com/moonburnt/a2s3"&gt;2.5D video game&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Where can I find full list of things you've made and proud of?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For now, &lt;a href="https://github.com/moonburnt?tab=repositories&amp;amp;q=&amp;amp;type=source"&gt;check my github profile&lt;/a&gt;.
+Eventually I will make a portfolio, I guess.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I've noticed some typos in your posts&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Its because english isnt my first language. Just like with programming, I've
+learned it by myself over the net. If there is anything critical - feel free to
+point the issue on github.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="About"></category></entry></feed>
