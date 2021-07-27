@@ -32,7 +32,7 @@ chat bots, gamedev. I've been writing [web](https://github.com/moonburnt/pymedia
 and [various](https://github.com/moonburnt/locky) [libraries](https://github.com/moonburnt/p3dss).
 At the moment, Im working on [2.5D video game](https://github.com/moonburnt/a2s3).
 
-- **Where can I find full list of things you've made and proud of?**
+- **Where can I find a full list of things you've made and proud of?**
 
 - For now, [check my github profile](https://github.com/moonburnt?tab=repositories&q=&type=source).
 Eventually I will make a portfolio, I guess.
