@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel><title>Moonburnt's Blog - moonburnt</title><link>/</link><description></description><lastBuildDate>Sat, 24 Jul 2021 20:24:00 +0300</lastBuildDate><item><title>Beginning of This Blog</title><link>/beginning-of-this-blog.html</link><description>&lt;p&gt;Hello, stranger. If you are reading this - you either scrolled down really far,
-or I gave up on updating this. Regardless - this is my attempt at maintaining
+or I gave up on updating this. Regardless - this is my attempt at maintaining a
 github pages blog, powered by pelican.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Why pelican?&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Well, Because at this point of time, Im trying to become python developer.
+&lt;p&gt;Well, Because at this point in time, Im trying to become a python developer.
 Thus I decided that using blog engine which could be hacked by myself, with
 styles powered by commonly-used in flask jinja, would be a wise choice.&lt;/p&gt;
 &lt;/li&gt;
@@ -19,7 +19,7 @@ styles powered by commonly-used in flask jinja, would be a wise choice.&lt;/p&gt
 seems to be relatively easy to migrate from, in case of emergence.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Who even write blogs in 2k21?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who even writes blogs in 2k21?&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Ikr. I just wanted to get something to start with. Maybe at some point I will
@@ -67,7 +67,7 @@ and &lt;a href="https://github.com/moonburnt/locky"&gt;various&lt;/a&gt; &lt;a h
 At the moment, Im working on &lt;a href="https://github.com/moonburnt/a2s3"&gt;2.5D video game&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Where can I find full list of things you've made and proud of?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Where can I find a full list of things you've made and proud of?&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;For now, &lt;a href="https://github.com/moonburnt?tab=repositories&amp;amp;q=&amp;amp;type=source"&gt;check my github profile&lt;/a&gt;.
